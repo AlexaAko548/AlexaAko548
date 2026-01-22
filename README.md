@@ -2,7 +2,7 @@
 
 ### 3rd Year IT Student | Aspiring Software Engineer & System Admin
 
-I am an Information Technology student passionate about bridging the gap between software development and infrastructure. Whether I'm managing memory in **C**, building cross-platform apps in **React Native**, or configuring **Servers**, I love understanding how things work under the hood.
+I am an IT student from University of San Carlos passionate about bridging the gap between software development and infrastructure. Whether I'm managing memory in **C**, building cross-platform apps in **React Native**, or configuring **Servers**, I love understanding how things work under the hood.
 
 ---
 
