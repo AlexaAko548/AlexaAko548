@@ -1,8 +1,8 @@
 # Hi there, I'm Alexa! 👋
 
-### 3rd Year IT Student | Aspiring Software Engineer & System Admin
+### 3rd Year IT Student | Tech Enthusiast & Creative Problem Solver
 
-I am an IT student from University of San Carlos passionate about bridging the gap between software development and infrastructure. Whether I'm managing memory in **C**, building cross-platform apps in **React Native**, or configuring **Servers**, I love understanding how things work under the hood.
+I am an IT student from the University of San Carlos with a passion for building end-to-end digital solutions. I love exploring how technology connects, from designing intuitive interfaces to writing code and managing the systems that keep it all running. I enjoy wearing multiple hats and understanding the full picture of how software comes to life.
 
 ---
 
@@ -12,6 +12,10 @@ I am an IT student from University of San Carlos passionate about bridging the g
 * **Languages:** C, C#, JavaScript, SQL
 * **Mobile/Web:** React Native, Expo
 * **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
+
+**Design & Prototyping**
+* **Tools:** Figma, Canva
+* **Focus:** User Experience (UX), Wireframing, Responsive Design
 
 **Infrastructure & Systems**
 * **OS:** Windows Server 2016, Linux, Mac, Windows
