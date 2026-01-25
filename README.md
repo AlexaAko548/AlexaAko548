@@ -39,7 +39,7 @@ I am an IT student from the University of San Carlos with a passion for building
     * *A mobile application that serves as a digital encyclopedia for Pokemon.*
     * **Features:** Fetches live data via REST API, search functionality, and dynamic stat displays.
     * **Tech Stack:** React Native, PokeAPI
-    * **GitHub Repo Link:** [Memora](https://github.com/AlexaAko548/AGIPO)
+    * **GitHub Repo Link:** [AGIPO](https://github.com/AlexaAko548/AGIPO)
 
 ---
 
