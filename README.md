@@ -26,14 +26,16 @@ I am an IT student from University of San Carlos passionate about bridging the g
 ### 🔭 Current Projects
 
 * **Memora** 🧠
-    * *A web-based flashcard maker designed to help students study efficiently.*
+    * *A web-based flashcard maker designed to help students study efficiently and for teachers to create, customize, and share engaging learning materials with their classes seamlessly.*
     * **Tech Stack:** React Native, Web
     * **My Role:** Co-developer focused on system architecture and backend logic.
+    * **GitHub Repo Link:** [Memora](https://github.com/AlexaAko548/Memora)
  
 * **AGIPO** 🧠
     * *A mobile application that serves as a digital encyclopedia for Pokemon.*
     * **Features:** Fetches live data via REST API, search functionality, and dynamic stat displays.
     * **Tech Stack:** React Native, PokeAPI
+    * **GitHub Repo Link:** [Memora](https://github.com/AlexaAko548/AGIPO)
 
 ---
 
